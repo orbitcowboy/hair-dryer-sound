@@ -5,4 +5,4 @@
 
 work in progress ...
 
-https://orbitcowboy.github.io/hair-dryer-sound/index.html
+https://orbitcowboy.github.io/hair-dryer-sound/
